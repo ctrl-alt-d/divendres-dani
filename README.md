@@ -1,0 +1,2 @@
+# divendres-dani
+esborrar

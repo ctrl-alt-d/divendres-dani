@@ -1,0 +1,1 @@
+-e "# Llista regals\n* torr¢ suchard\n* 1 polvor¢\n* paquet de klinexs\n * 1 bast¢ d'aquells de xocolata" 
